@@ -3,7 +3,7 @@
 Código fuente del ejemplo utilizado durante el webinar.
 
 **Status:**
-* Caso de uso: genera un "report" a cerca de los worklogs de un usuario en un día concreto. Dado el nombre de usuario y la fecha indica si las horas están correctas, faltan o sobran.
+* Caso de uso. Genera un "report" en base a los worklogs de un usuario en un día concreto: Dado el nombre de usuario y la fecha indica si las horas están correctas, faltan o sobran.
 
 **Ejecutar la app**
 
@@ -20,4 +20,3 @@ Ya está configurado en el pom.xml el plugin de pitest para maven. así que es s
 ```./mvnw clean test```
 
 El report generado está configurado para guardarse en target/site/pit-test/index.html
-
