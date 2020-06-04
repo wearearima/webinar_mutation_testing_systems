@@ -2,7 +2,7 @@
 
 Código fuente del ejemplo utilizado durante el webinar.
 
-**Status:**
+**Status**
 * Caso de uso. Genera un "report" en base a los worklogs de un usuario en un día concreto: Dado el nombre de usuario y la fecha indica si las horas están correctas, faltan o sobran.
 
 **Ejecutar la app**
